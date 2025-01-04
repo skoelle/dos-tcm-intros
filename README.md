@@ -1,4 +1,4 @@
-# Tr@ncemission Intros
+# Trancemission Intros
 These demos often showcased advanced graphics, sound, and programming techniques using Turbo Pascal and assembler.
 
 Website: https://www.moonweb.org/tcm/
